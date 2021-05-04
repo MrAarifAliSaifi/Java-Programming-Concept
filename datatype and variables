@@ -1,0 +1,13 @@
+public class DatatypeAndVariable{//this main class
+    public static void main(String[] args) {//this main function
+        byte var=10; //here byte is data type and var is the variable which holding the value 10;
+        short var1=12;//here short is data type and var is the variable which holding the value 10;
+        int myInt=1234567;//here int is data type and var is the variable which holding the value 10;
+        float myfloat=123.12f;//here float is data type and var is the variable which holding the value 10;
+        char ch='A';//here char is data type and var is the variable which holding the value 10;
+        boolean bool=false;//here boolean is data type and var is the variable which holding the value 10;
+        String str="hello my name is aarif";//here String is data type and var is the variable which holding the value 10;
+        double db=123.13123123;//here double is data type and var is the variable which holding the value 10;
+        //note:String is class also in java
+    }
+}
