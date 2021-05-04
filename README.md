@@ -1,5 +1,6 @@
 # Java-Programming-Concept]
-Here si all concept of java is available in this repository
+Here is all concept of java programming  is available in this repository from scratch to advanced..
+
 
 
 
